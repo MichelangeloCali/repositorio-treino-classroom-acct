@@ -28,7 +28,7 @@ Atividades dos Módulos:
 
 <div id='modulo1'/>
 
-## Módulo 1 . atividades desenvolvidas:
+## Módulo 1
 
 ### 1.1 GIT - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 Foram abordados noções de versionamentos com Git e aplicação na prática do Git Flow, onde Rodrigo Alves abordou comandos básicos, simulando numa aplicação real as mudanças dos branchs, com criação da branch Main, Develop, Feature com criação de duas features.
