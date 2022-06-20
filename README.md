@@ -30,15 +30,19 @@ Atividades dos Módulos:
 
 ## Módulo 1 . atividades desenvolvidas:
 
-### Tópico 1 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### 1.1 GIT - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 Foram abordados noções de versionamentos com Git e aplicação na prática do Git Flow, onde Rodrigo Alves abordou comandos básicos, simulando numa aplicação real as mudanças dos branchs, com criação da branch Main, Develop, Feature com criação de duas features.
 
-### Tópico 2 - ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+### 1.2 Markdown - ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 Foi apresentado o linguagem de marcação Markdown, que como atividade prática teve a criação do presente Readme.
 
-### Tópico 3 -- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 1.3 CSS - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Neste tópico foi exigido conhecimento em Grid Layout e Flexbox, além de recomendações de estudos de Bootstrap e SASS.
 
+#### 1.3.1 Grid Layout 
+Sobre Grid Layout, sistemas com linhas e colunas, facilitando o design de páginas web, sendo uma alternativa às antigas propriedades float e position, criei uma pasta com os níveis do jogo `Grid Garden` que pode ser acessada [aqui](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/CSS-Grid-exercicios)
 
+#### 1.3.2 Flexbox
 
 
 
