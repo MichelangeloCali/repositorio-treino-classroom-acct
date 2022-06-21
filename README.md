@@ -49,13 +49,15 @@ Neste tópico foi exigido conhecimento em Grid Layout e Flexbox, além de recome
 
 
 #### 1.3.1 Grid Layout 
-Sobre Grid Layout, sistemas com linhas e colunas, facilitando o design de páginas web, sendo uma alternativa às antigas propriedades float e position, criei uma pasta com os níveis do jogo `CSS Grid Garden` que pode ser acessada [aqui](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/CSS-Grid-exercicios)
+Sobre Grid Layout, sistemas com linhas e colunas, facilitando o design de páginas web, sendo uma alternativa às antigas propriedades float e position, criei uma pasta com os níveis do jogo `CSS Grid Garden` onde pude revisitar todos os conceitos e propriedades do Grid, que pode ser acessada [aqui](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/CSS-Grid-exercicios)
 
 
 #### 1.3.2 Flexbox
-Aqui eu treinei no site `Flexboxfroggy` e copiei o código de cada nível, você pode acessar [aqui](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/CSS-Flexbox-exercicios)
+Aqui pude treinar flexbox e todas as suas propriedades, como flex-direction, flex-flow e order, todas no site `Flexboxfroggy`. Copiei o código de cada nível separados em arquivos .css e você pode acessar [aqui](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/CSS-Flexbox-exercicios)
 
 ### 1.4 JavaScript 
+![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 Nesse tópico, revisei alguns conceitos básicos de JavaScript e desenvolvi a aplicação de uma calculadora como forma de avaliação prática. Você pode acessar essa apicação nesse [link]()
 
 
