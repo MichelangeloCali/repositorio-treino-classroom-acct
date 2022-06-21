@@ -58,7 +58,7 @@ Aqui pude treinar flexbox e todas as suas propriedades, como flex-direction, fle
 ### 1.4 JavaScript 
 ![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Nesse tópico, revisei alguns conceitos básicos de JavaScript e desenvolvi a aplicação de uma calculadora como forma de avaliação prática. Você pode acessar essa apicação nesse [link]()
+Nesse tópico, revisei alguns conceitos básicos de JavaScript e desenvolvi a aplicação de uma calculadora como forma de avaliação prática. Você pode acessar essa aplicação nesse [link]()
 
 
 
