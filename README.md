@@ -21,7 +21,7 @@ Atividades dos Módulos:
  10. [Módulo 10](#Modulo10)
  11. [Módulo 11](#Modulo11)
  
- Avaliação. [Avaliação](#avaliacao)
+ [Avaliação](#avaliacao)
 
 *******
 
