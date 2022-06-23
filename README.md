@@ -58,7 +58,7 @@ Aqui pude treinar flexbox e todas as suas propriedades, como flex-direction, fle
 ### 1.4 JavaScript 
 ![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Nesse tópico, revisei alguns conceitos básicos de JavaScript e desenvolvi a aplicação de uma calculadora como forma de avaliação prática. Com Javascript tentei implementar todas as operações básicas, fiz alguns tratamentos de erros. Com o CSS fiz também a parte responsiva para mobile. Você pode acessar essa aplicação nesse [link](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/blob/main/Modulo-1/Javascript/script.js)
+Nesse tópico, revisei alguns conceitos básicos de JavaScript e desenvolvi a aplicação de uma calculadora como forma de avaliação prática. Com Javascript tentei implementar todas as operações básicas, fiz alguns tratamentos de erros. Com o CSS fiz também a parte responsiva para mobile. Você pode acessar essa aplicação nesse [link](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/Javascript)
 
 
 
