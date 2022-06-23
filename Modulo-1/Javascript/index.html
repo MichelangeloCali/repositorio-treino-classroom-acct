@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora</title>
+
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <main id="container">
+
+    <div id="container-result">
+      <div id="result" data-display></div>
+    </div>
+
+    <div id="container-calc">
+      <button data-clear>C</button>
+      <button id="backspace" data-backspace><img src="./icon/backspace.svg" alt="backspace"></button>
+      <button data-operation>/</button>
+      <button data-operation>*</button>
+
+      <button data-number>7</button>
+      <button data-number>8</button>
+      <button data-number>9</button>
+      <button data-operation>-</button>
+
+      <button data-number>4</button>
+      <button data-number>5</button>
+      <button data-number>6</button>
+      <button data-operation>+</button>
+
+      <button data-number>1</button>
+      <button data-number>2</button>
+      <button data-number>3</button>
+      <button id="equal" data-equal>=</button>
+
+      <button id="zero" data-number>0</button>
+      <button data-floatNumber>.</button>
+    </div>
+
+  </main>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>
