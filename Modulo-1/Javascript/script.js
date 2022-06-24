@@ -83,7 +83,8 @@ backspace.addEventListener("click", removeLastNumber);
 const floatNumbersExists = () => display.textContent.indexOf(".") !== -1; // Retornará falso (-1) se não existir decimal.
 const valueExists = () => display.textContent.length > 0; // Verifica se existe valor.
 const floatNumberFunction = () => {
-  if (!floatNumbersExists()) {
+  // Para validar melhor as hipóteses de números decimais!
+  if (!floatNumbersExists() || operator !== undefined) {
     if (valueExists()) {
       refreshDisplay(".");
     } else {
