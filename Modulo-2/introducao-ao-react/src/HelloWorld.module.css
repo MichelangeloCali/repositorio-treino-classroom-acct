@@ -1,6 +1,6 @@
 .container {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .content {
@@ -8,11 +8,13 @@
   flex-direction: column;
   justify-content: center;
   padding: 1.5rem 3rem;
+  width: 15rem;
   background-color: rgb(37, 35, 24);
   margin: 1rem;
 }
 
-.container h1 {
+.content h1 {
   text-align: center;
   color: white;
+  color: #8273c2;
 }
