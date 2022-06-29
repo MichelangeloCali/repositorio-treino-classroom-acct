@@ -21,7 +21,7 @@ function App({ name, color }) {
         color="#49ee93"
       />
       <HelloWorld name={text.toUpperCase().split("O")} color="#1c7700" />
-      <HelloWorld />
+      <HelloWorld name={text.toLocaleUpperCase().split("L")} color="#e60f0f" />
     </div>
   );
 }
