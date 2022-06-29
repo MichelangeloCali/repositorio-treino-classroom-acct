@@ -13,7 +13,7 @@ function App({ name, color }) {
         name={text.replaceAll("l", "1").replaceAll("e", "3")}
         color="#1dbed3"
       />
-      <HelloWorld />
+      <HelloWorld name={text.replace("hello", "HELLO")} color="#e71ddd" />
       <HelloWorld />
       <HelloWorld />
       <HelloWorld />
