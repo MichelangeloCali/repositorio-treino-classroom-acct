@@ -8,7 +8,7 @@ function App({ name, color }) {
     <div className={styles.container}>
       <HelloWorld name={text} color="#ffffff" />
       <HelloWorld name={text.toUpperCase()} color="#d8e65c" />
-      <HelloWorld />
+      <HelloWorld name={text.replaceAll("o", "0")} color="#51f727" />
       <HelloWorld />
       <HelloWorld />
       <HelloWorld />
