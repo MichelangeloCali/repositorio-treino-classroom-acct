@@ -20,7 +20,7 @@ function App({ name, color }) {
         name={text.split("hello,").reverse("world").join(" hello,")}
         color="#49ee93"
       />
-      <HelloWorld />
+      <HelloWorld name={text.toUpperCase().split("O")} color="#1c7700" />
       <HelloWorld />
     </div>
   );
