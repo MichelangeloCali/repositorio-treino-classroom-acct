@@ -9,7 +9,10 @@ function App({ name, color }) {
       <HelloWorld name={text} color="#ffffff" />
       <HelloWorld name={text.toUpperCase()} color="#d8e65c" />
       <HelloWorld name={text.replaceAll("o", "0")} color="#51f727" />
-      <HelloWorld />
+      <HelloWorld
+        name={text.replaceAll("l", "1").replaceAll("e", "3")}
+        color="#1dbed3"
+      />
       <HelloWorld />
       <HelloWorld />
       <HelloWorld />
