@@ -14,7 +14,7 @@ function App({ name, color }) {
         color="#1dbed3"
       />
       <HelloWorld name={text.replace("hello", "HELLO")} color="#e71ddd" />
-      <HelloWorld />
+      <HelloWorld name={text.replace("world", "WORLD")} color="#8273c2" />
       <HelloWorld />
       <HelloWorld />
       <HelloWorld />
