@@ -16,7 +16,10 @@ function App({ name, color }) {
       <HelloWorld name={text.replace("hello", "HELLO")} color="#e71ddd" />
       <HelloWorld name={text.replace("world", "WORLD")} color="#8273c2" />
       <HelloWorld name={text.split("").reverse().join("")} color="#f15555" />
-      <HelloWorld />
+      <HelloWorld
+        name={text.split("hello,").reverse("world").join(" hello,")}
+        color="#49ee93"
+      />
       <HelloWorld />
       <HelloWorld />
     </div>
