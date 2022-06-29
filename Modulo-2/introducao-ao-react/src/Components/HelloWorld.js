@@ -11,7 +11,9 @@ const HelloWorld = (props) => {
     <>
       <div className={styles.content}>
         <h1 style={{ color: props.color }}>{props.name}</h1>
-        <span style={{ color: "white" }}>{`${day}/${month + 1}/${year}`}</span>
+        <span style={{ color: "white", textAlign: "center" }}>{`${day}/${
+          month + 1
+        }/${year}`}</span>
       </div>
     </>
   );

@@ -7,7 +7,7 @@ function App({ name, color }) {
   return (
     <div className={styles.container}>
       <HelloWorld name={text} color="#ffffff" />
-      <HelloWorld />
+      <HelloWorld name={text.toUpperCase()} color="#d8e65c" />
       <HelloWorld />
       <HelloWorld />
       <HelloWorld />
