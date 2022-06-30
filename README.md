@@ -62,6 +62,14 @@ Nesse tópico, revisei alguns conceitos básicos de JavaScript e desenvolvi a ap
 
 
 
+<div id='modulo2'/>
+
+## Módulo 2
+
+### 2.1 Introdução ao React JS
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+Foi revisado alguns conceitos básicos de React JS e como atividade prática foi desenvolvido um app para aplicar os conceitos de componetização, props, além do ambiente de instalação com NPM. A aplicação pode ser acessada por esse [link](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-2/introducao-ao-react) 
 
 
 
