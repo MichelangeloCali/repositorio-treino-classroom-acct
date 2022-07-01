@@ -105,6 +105,10 @@ O maior evento do Scrum é a  `Sprint` e ela compreende as 4 cerimônias do Scru
 ### 2.6 - APIs e Postman 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
+Instalei o Postman e realizei alguns treinamentos com requests da API Master Data V2 da VTEX. 
+
+#### 2.6.1 APIs VTEX
+
 
 
 
