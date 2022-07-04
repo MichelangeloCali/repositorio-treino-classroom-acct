@@ -30,6 +30,7 @@ Atividades dos Módulos:
 
 ## Módulo 1 ✅
 
+
 ### 1.1 - GIT 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
@@ -47,13 +48,12 @@ Foi apresentado o linguagem de marcação Markdown, que como atividade prática 
 
 Neste tópico foi exigido conhecimento em Grid Layout e Flexbox, além de recomendações de estudos de Bootstrap e SASS.
 
-
 #### 1.3.1 Grid Layout 
 Sobre Grid Layout, sistemas com linhas e colunas, facilitando o design de páginas web, sendo uma alternativa às antigas propriedades float e position, criei uma pasta com os níveis do jogo `CSS Grid Garden` onde pude revisitar todos os conceitos e propriedades do Grid, que pode ser acessada [aqui](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/CSS-Grid-exercicios)
 
-
 #### 1.3.2 Flexbox
 Aqui pude treinar flexbox e todas as suas propriedades, como flex-direction, flex-flow e order, todas no site `Flexboxfroggy`. Copiei o código de cada nível separados em arquivos .css e você pode acessar [aqui](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/CSS-Flexbox-exercicios)
+
 
 ### 1.4 - JavaScript 
 ![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,31 +61,38 @@ Aqui pude treinar flexbox e todas as suas propriedades, como flex-direction, fle
 Nesse tópico, revisei alguns conceitos básicos de JavaScript e desenvolvi a aplicação de uma calculadora como forma de avaliação prática. Com Javascript tentei implementar todas as operações básicas, fiz alguns tratamentos de erros. Com o CSS fiz o layout responsivo para mobile, além de personalizar o design deixando-o similar ao meu Sistema Operacional (Windows 10). Você pode acessar essa aplicação nesse [link](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-1/Javascript)
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <div id='modulo2'/>
 
-## Módulo 2 🔨⚙️
+## Módulo 2 ✅
+
 
 ### 2.1 - Introdução ao React JS
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 Foi revisado alguns conceitos básicos de React JS e como atividade prática foi desenvolvido um app para aplicar os conceitos de componetização, props, além do ambiente de instalação com NPM. A aplicação pode ser acessada por esse [link](https://github.com/MichelangeloCali/repositorio-treino-classroom-acct/tree/main/Modulo-2/introducao-ao-react) 
 
+
 ### 2.2 - Metodologias Ágeis - Scrum
 ![Scrum](https://img.shields.io/badge/Scrum-61DAFB?style=for-the-badge&logo=scrum&logoColor=61DAFB)
 
 Foram abordados conceitos da metodologia ágil com Scrum, um framework ágil para desenvolvimento e entrega de produtos complexos. Os papéis do Product Owner (PO), Time de Desenvolvimento e Scrum Master. Além dos eventos cerimoniais como o Sprint (Sprint Planning, Daily Scrums, Sprint Review e Sprint Retrospective).
 
+
 ### 2.3 - NPM e Yarn
 ![NPM](https://img.shields.io/badge/NPM-C73536?style=for-the-badge&logo=npm&logoColor=C73536)
 ![YARN](https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
 
-Entender os gerenciadores de pacotes NPM e Yarn, seus propósitos e seus funcionamentos. Além do kit de ferramentas Gulp.js e o executor de tarefas Grunt.js.
+Pude entender os gerenciadores de pacotes NPM e Yarn, seus propósitos e seus funcionamentos. Além do kit de ferramentas Gulp.js e o executor de tarefas Grunt.js.
+
 
 ### 2.4 - VTEX Overview
 ![VTEX](https://img.shields.io/badge/VTEX-EA185E?style=for-the-badge&logo=vtexio&logoColor=EA185E)
 
-Entender o que é VTEX num overview básico além da instalação pelo terminal e acesso ao ambiente de desenvolvimento da `ACCTGlobal`.
+Pude entender o que é VTEX num overview básico além da instalação pelo terminal e acesso ao ambiente de desenvolvimento da `ACCTGlobal`.
+
 
 ### 2.5 - Metodologias Ágeis.
 ![Scrum](https://img.shields.io/badge/Scrum-61DAFB?style=for-the-badge&logo=scrum&logoColor=61DAFB)
@@ -108,6 +115,27 @@ O maior evento do Scrum é a  `Sprint` e ela compreende as 4 cerimônias do Scru
 Instalei o Postman e realizei alguns treinamentos com requests da API Master Data V2 da VTEX. 
 
 #### 2.6.1 APIs VTEX
+
+Fiz um request teste a uma API pública da VTEX pelo Postman, escolhi como modelo a Checkout API `Remove all personal data` [link](https://developers.vtex.com/vtex-rest-api/reference/removeallpersonaldata) e com o resquest, tive acesso ao Curl:
+
+```
+curl --location --request GET 'https://acctglobal.vtexcommercestable.com.br/checkout/changeToAnonymousUser/ede846222cd44046ba6c638442c3505a' \
+--header 'Accept: text/html' \
+--header 'X-VTEX-API-AppKey: <API Key>' \
+--header 'Cookie: janus_sid=712a7230-7efb-4f3e-9390-cf96e54ea27c'
+```
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<div id='modulo3'/>
+
+## Módulo 3 🔨⚙️
+
+
+### 3.1 - Figma
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
