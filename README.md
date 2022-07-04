@@ -143,6 +143,8 @@ Conceitos básicos sobre o Figma como ferramenta de prototipação para auxiliar
 ### 3.2 - Onboarding VTEX
 ![VTEX](https://img.shields.io/badge/VTEX-EA185E?style=for-the-badge&logo=vtexio&logoColor=EA185E)
 
+Estudo da trilha da Universidade Corporativa sobre o funcionamento da plataforma VTEX. 
+
 
 
 
