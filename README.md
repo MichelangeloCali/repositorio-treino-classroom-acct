@@ -137,6 +137,14 @@ curl --location --request GET 'https://acctglobal.vtexcommercestable.com.br/chec
 ### 3.1 - Figma
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+Conceitos básicos sobre o Figma como ferramenta de prototipação para auxiliar no desenvolvimento Front-End. 
+
+
+### 3.2 - Onboarding VTEX
+![VTEX](https://img.shields.io/badge/VTEX-EA185E?style=for-the-badge&logo=vtexio&logoColor=EA185E)
+
+
+
 
 
 
