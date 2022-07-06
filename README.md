@@ -153,9 +153,9 @@ Resumo:
 
 **• Promoções e Taxas:**  é um desconto concedido ao cliente que pode estar associado a um ou mais produtos do carrinho, ao envio ou a um brinde, tendo como parâmetros as listas de produtos, listas de clientes, CEPs, valor mínimo do carrinho e outros. O desconto pode ser `Desconto Nominal` (concede um valor bruto) ou `Desconto Percentual` (concede um desconto em percentagem). Existem 6 tipos de promoções: `Regular` (é aquela que atende o maior número de cenários); `Compre junto` (usada para conceder um desconto para dois ou mais produtos quando colocados ao mesmo tempo no carrinho); `Mais por menos`(concede um desconto quando o cliente adiciona várias unidades do mesmo produto ao carrinho); `Desconto progressivo` (quando a loja deseja oferecer um desconto percentual para uma determinada quantidade de produtos inseridos no carrinho.); `Compre um ganhe um` (oferece frete grátis ou um brinde quando um determinado produto é comprado); `Benefício da campanha` (é um recurso para criar públicos-alvo).
 
+**• Configurações da Conta:** no menu lateral esquerdo encontra-se o `Gerenciamento de Contas` seção responsável por gerenciar `Usuários da loja` (e-mails que têm acesso ao painel de administração), `Papéis` (os níveis de permissão) e `Conta` (informações globais do negócio).
 
-
-
+**• Pedidos:** 
 
 
 
