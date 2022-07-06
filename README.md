@@ -147,7 +147,9 @@ Estudo da trilha da Universidade Corporativa sobre o funcionamento da plataforma
 
 Resumo:
 
-**• Catálogo:** área referente ao sortiamento dos produtos do e-commerce, sendo de administração da loja.  
+**• Catálogo:** área referente ao sortiamento dos produtos do e-commerce, sendo de administração da loja. Para que um `Produto` seja disponibilizado na loja, ele precisa fazer parte de uma `Categoria` e estar vinculado a pelo menos um `SKU`, que por sua vez só pode ser criado após as definições do produto, como exigência da própria VTEX. Há também as `Especificações` que são propriedades cadastradas de uma categoria que atribuem características específicas a esse produto e SKUs vinculados a ele.
+
+
 
 
 
