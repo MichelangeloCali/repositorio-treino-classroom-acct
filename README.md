@@ -172,7 +172,7 @@ Ideia de mercado onde vendedores podem oferecer seus produtos através de outra 
 `Políticas Comerciais` uma das utilidades da política comercial é poder trabalhar com multi países, onde a cultura, moeda, código será de acordo com os países adicionados. `Checkout` temos vários checkouts por termos várias sublojas cadastradas na VTEX. Podemos editar o checkout, setando suas configurações de acordo com cliente, como API google maps, entrega, endereço nota fiscal. No código podemos visualizar o CSS e o Javascript, podendo mexer no header, footer e poucos blocos de códigos.`Busca` trata-se de uma busca inteligente adquirida pela VTEX. No `CMS` temos algumas configurações do VTEX CMS (legado) e o VTEX IO, podemos escolher templates em HTML, headers e possibilidade de criações de menus, customizações, etc. Em `Loja` podemos preencher os itens para melhorar a perfomance do SEO (motores de buscas). `Estilos` pode ser alterados toda parte de tipografia e cores que vai ser usado na loja. `Site Editor` terá uma listagem da homepage de todos os blocos que estão sendo utilizados no site, podendo nesse caso alterar algumas configurações no layout. 
 
 #### 3.2.9 Cliente: 
-
+`Central de Mensagens` é onde ficará armazenado todos os templates de emails institucionais, exemplo: pedido confirmado, pagamento aprovado, etc. `Master Data` é um banco de dados que armazena os dados dos clientes. 
 
 
 
