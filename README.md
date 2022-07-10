@@ -131,7 +131,7 @@ curl --location --request GET 'https://acctglobal.vtexcommercestable.com.br/chec
 
 <div id='modulo3'/>
 
-## Módulo 3 🔨⚙️
+## Módulo 3 ✅
 
 
 ### 3.1 - Figma
@@ -175,7 +175,22 @@ Ideia de mercado onde vendedores podem oferecer seus produtos através de outra 
 `Central de Mensagens` é onde ficará armazenado todos os templates de emails institucionais, exemplo: pedido confirmado, pagamento aprovado, etc. `Master Data` é um banco de dados que armazena os dados dos clientes. 
 
 
+### 3.3 - VTEX IO: Conceitos
+![VTEX](https://img.shields.io/badge/VTEX-EA185E?style=for-the-badge&logo=vtexio&logoColor=EA185E)
 
+Estudo dos conceitos básicos do VTEX IO e suas principais funcionalidades, como instalação, worspaces, etc.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<div id='modulo4'/>
+
+## Módulo 4 🔨⚙️
+
+
+### 4.1 VTEX IO - Store Framework
+![VTEX](https://img.shields.io/badge/VTEX-EA185E?style=for-the-badge&logo=vtexio&logoColor=EA185E)
 
 
 
